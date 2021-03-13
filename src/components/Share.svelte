@@ -46,7 +46,7 @@
     </div>
     <div class="Share-content">
         <a 
-          href='https://pugsincube.netlify.app/'
+          href='http://www.facebook.com/sharer/sharer.php?&u=https://pugsincube.netlify.app/'
           target="_blank"
         >
             <i class='fab fa-facebook-square' />
